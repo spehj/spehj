@@ -11,7 +11,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spehj&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spehj&show_icons=true&theme=dark&hide_border=true&count_private=false&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spehj&theme=dark&hide_border=true)
 
 ## Featured Projects
