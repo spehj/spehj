@@ -1,6 +1,6 @@
 # <span style="color: #5956ff;">Jure Speh</span>
 
-**I'm [Appolius](https://appolius.com/) & [TagPlan](https://tagplan.app/) CTO, building mobile apps, IoT systems, and computer vision solution.s**
+**I'm [Appolius](https://appolius.com/) & [TagPlan](https://tagplan.app/) CTO, building mobile apps, IoT systems, and computer vision solutions.**
 
 ## Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
