@@ -1,6 +1,6 @@
 # Jure Speh
 
-**CTO building mobile apps, IoT systems, and computer vision solutions**
+**Appolius & TagPlan CTO building mobile apps, IoT systems, and computer vision solutions**
 
 ## Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
