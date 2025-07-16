@@ -12,7 +12,6 @@
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spehj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true&bg_color=0d1117&title_color=5956ff&icon_color=5956ff&text_color=c9d1d9)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spehj&theme=tokyonight&hide_border=true&background=0d1117&ring=5956ff&fire=5956ff&currStreakLabel=5956ff)
 
 ## Featured Projects
 [![YOLOv7 Counter](https://github-readme-stats.vercel.app/api/pin/?username=spehj&repo=yolov7-counter-jetson-nano&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5956ff&icon_color=5956ff&text_color=c9d1d9)](https://github.com/spehj/yolov7-counter-jetson-nano)
